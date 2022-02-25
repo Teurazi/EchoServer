@@ -1,0 +1,5 @@
+﻿  TestServer.cpp
+C:\Users\준영\Desktop\멀티스레드\TestServer\TestServer\TestServer.cpp(57,42): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\준영\Desktop\멀티스레드\TestServer\TestServer\TestServer.cpp(101,40): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\준영\Desktop\멀티스레드\TestServer\TestServer\TestServer.cpp(57): warning C4700: 초기화되지 않은 'sock_addr' 지역 변수를 사용했습니다.
+  TestServer.vcxproj -> C:\Users\준영\Desktop\멀티스레드\TestServer\Debug\TestServer.exe
